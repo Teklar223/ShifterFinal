@@ -1,5 +1,6 @@
 # Important
-This repository contain no source code, but the next 2 links are the links for the backend and the frontend of the project.
+This repository contain no source code, but the next 2 links are the links for the backend and the frontend of the project. </br>
+Currently no hosting is planned.
 
 ## Links
 Backend Github: https://github.com/Teklar223/Shifter-backend
